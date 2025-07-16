@@ -1,0 +1,11 @@
+name: 🧪 Mejora de Tests
+description: Agregar o mejorar pruebas
+labels: [tests]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: ¿Qué pruebas se agregan o se van a modificar?
+      description: Indica la parte del código que necesita pruebas.
+    validations:
+      required: true

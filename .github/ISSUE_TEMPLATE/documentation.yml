@@ -1,0 +1,11 @@
+name: 📚 Documentación
+description: Documentación
+labels: [docs]
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: ¿Tema principal de la documentación?
+      description: sección del documento.
+    validations:
+      required: true

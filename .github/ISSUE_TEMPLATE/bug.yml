@@ -1,6 +1,6 @@
-name: 🐛 Bug Report
+name: 🐛 Bug
 description: Error o comportamiento inesperado
-labels: [fix, bug]
+labels: [bug]
 body:
   - type: textarea
     id: what-happened

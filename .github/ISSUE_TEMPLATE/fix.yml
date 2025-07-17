@@ -1,0 +1,12 @@
+name: 🪛 Fix
+description: Corregir un error
+labels: [fix]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: ¿Qué pasó?
+      description: Describe el error observado.
+      placeholder: "Al intentar hacer X, sucede Y..."
+    validations:
+      required: true

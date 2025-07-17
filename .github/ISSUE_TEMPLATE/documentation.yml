@@ -1,6 +1,6 @@
 name: 📚 Documentación
 description: Documentación
-labels: [docs]
+labels: [documentation]
 body:
   - type: textarea
     id: issue

@@ -1,0 +1,4 @@
+# CODEOWNERS for Easytrack-Next/system-manager-drp
+* @Easytrack-Next/sre
+
+.github/CODEOWNERS @Easytrack-Next/manager @Easytrack-Next/sre

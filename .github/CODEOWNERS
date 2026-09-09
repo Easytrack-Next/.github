@@ -1,2 +1,3 @@
-# Managed by onenumaris/github-actions-runners (codeowners sync). The first rule comes from the mapping there.
+# Managed by onenumaris/github-actions-runners (codeowners sync). The first rule comes from the mapping there, the last one is fixed.
 * @Easytrack-Next/backend
+/.github/CODEOWNERS @Easytrack-Next/sre

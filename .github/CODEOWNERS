@@ -1,3 +1,15 @@
 # Managed by onenumaris/github-actions-runners (codeowners sync). The first rule comes from the mapping there, the last one is fixed.
 * @Easytrack-Next/backend
+.github/CODEOWNERS @Easytrack-Next/backend @Easytrack-Next/sre
+.github/workflows @Easytrack-Next/backend @Easytrack-Next/sre
+**/CODEOWNERS @Easytrack-Next/backend @Easytrack-Next/sre
+**/atlantis.yaml @Easytrack-Next/backend @Easytrack-Next/sre
+**/backend.tf @Easytrack-Next/backend @Easytrack-Next/sre
+**/providers*.tf @Easytrack-Next/backend @Easytrack-Next/sre
+**/policies/*.json @Easytrack-Next/backend @Easytrack-Next/sre
+**/policies/**/*.json @Easytrack-Next/backend @Easytrack-Next/sre
+**/*.rego @Easytrack-Next/backend @Easytrack-Next/sre
+**/*oidc*.tf @Easytrack-Next/backend @Easytrack-Next/sre
+**/*kms*.tf @Easytrack-Next/backend @Easytrack-Next/sre
+**/.infrastructure/** @Easytrack-Next/backend @Easytrack-Next/sre
 /.github/CODEOWNERS @Easytrack-Next/sre
